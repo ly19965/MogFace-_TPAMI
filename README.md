@@ -67,8 +67,6 @@ cd utils/bbox && python setup.py build_ext --inplace && cd ../..
 |   MogFace_SSE (SS_test) | 95.6 | 94.1  | - | [download](https://drive.google.com/drive/folders/1vxVXeZcEF8Pu6wjN2yJ8iRgbKBA07qrb?usp=sharing) |
 |   MogFace_HCAM (SS_test) | 95.1 | 94.2  | 87.4 | [download](https://drive.google.com/drive/folders/1LCizKuX-3yJhDkzBaLJ-6palKBoViqax?usp=sharing) |
 |   MogFace_AAM (SS_test) | 95.3 | 94.4  | 87.8 | [download](https://drive.google.com/file/d/1Lbh2KIwf3GdumzL1H0KahJO1vFbQjhgE/view?usp=share_link) |
-|   MogFace-E (MS_test) | 97.7 | 96.9  | 92.0 | [download](https://drive.google.com/drive/folders/1X98-WesEQiQsf6xsy1jOXSHvxyEe3rl-?usp=sharing) |
-|   MogFace (MS_test) | 97.0  | 96.3  | 93.0 | [download](https://drive.google.com/drive/folders/1OFcb0tDaIKv-qSvxXpEBpoc0dNxJzwyU?usp=sharing) |
 
 * MS_Test: multi-scale testing
 * SS_Test: single-scale testing
